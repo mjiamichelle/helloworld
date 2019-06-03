@@ -1,4 +1,4 @@
-name = raw_input("yoo dude?")
+name = input("yoo dude?")
 
 
 print("yo " + name) 
